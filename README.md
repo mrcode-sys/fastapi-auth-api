@@ -1,6 +1,6 @@
 # FastAPI Auth API
 ![alt text](image.png)
-## Description
+## Descrição
 
 Esse é um sistema simples de autenticação usando FastAPI
 
@@ -72,7 +72,7 @@ Inicie o servidor:
 uvicorn app.main:app --reload
 ```
 
-## API Documentation
+## Documentação da API
 
 Depois que o servidor estiver rodando acesse:
 
