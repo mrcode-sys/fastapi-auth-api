@@ -54,7 +54,7 @@ Esse é um sistema simples de autenticação usando FastAPI
 
 ## Configuração
 
-Crio o arquivo `.env` baseado no `.env.example`.
+Crie o arquivo `.env` baseado no `.env.example` dentro da pasta app.
 
 ## Banco de dados
 
