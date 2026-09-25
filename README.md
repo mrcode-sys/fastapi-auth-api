@@ -69,7 +69,7 @@ alembic upgrade head
 Inicie o servidor:
 
 ```
-uvicorn app.main:app --reload
+python -m uvicorn app.main:app --reload
 ```
 
 ## Documentação da API
